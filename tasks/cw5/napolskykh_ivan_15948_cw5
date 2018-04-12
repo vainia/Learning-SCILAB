@@ -1,0 +1,358 @@
+ ans  =
+
+   2.
+
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/Spadek_swobodny.sce',-1)
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/Spadek_swobodny.sce',-1)
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/portretFazowy.sci', -1)
+Warning : redefining function: F                       . Use funcprot(0) to avoid this message
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci', -1)
+in builtin                exec( /Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci line -1 )
+
+Undefined variable 'pochodnaY' in function 'f'.
+ode: An error occured in 'lsoda' subroutine.
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci', -1)
+in builtin                exec( /Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci line -1 )
+
+Undefined variable 'pochodnaY' in function 'f'.
+ode: An error occured in 'lsoda' subroutine.
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci', -1)
+in builtin                exec( /Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci line -1 )
+
+Undefined variable 'pochodnaY' in function 'f'.
+ode: An error occured in 'lsoda' subroutine.
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci', -1)
+in builtin                exec( /Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci line -1 )
+
+Undefined variable 'pochodnaY' in function 'f'.
+ode: An error occured in 'lsoda' subroutine.
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci', -1)
+in builtin                exec( /Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci line -1 )
+
+Undefined variable 'pochodnaY' in function 'f'.
+ode: An error occured in 'lsoda' subroutine.
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci', -1)
+in builtin                exec( /Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci line -1 )
+
+Undefined variable 'pochodnaY' in function 'f'.
+ode: An error occured in 'lsoda' subroutine.
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/Spadek_swobodny.sce', -1)
+Warning : redefining function: F                       . Use funcprot(0) to avoid this message
+at line     3 of function F   ( /Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/Spadek_swobodny.sce line 4 )
+in builtin                ode 
+at line    33 of executed file /Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/Spadek_swobodny.sce
+
+Undefined variable: S
+ode: An error occured in 'lsoda' subroutine.
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/portretFazowy.sci', -1)
+at line    32 of executed file /Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/portretFazowy.sci
+
+plot2d(t,[Y(1,:)''],style='');
+                              ^^
+Error: Unexpected end of line in a string.
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/portretFazowy.sci', -1)
+at line    32 of executed file /Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/portretFazowy.sci
+
+plot2d(t,[Y(1,:)''],style='');
+                              ^^
+Error: Unexpected end of line in a string.
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci', -1)
+in builtin                exec( /Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci line -1 )
+
+Undefined variable 'pochodnaY' in function 'f'.
+ode: An error occured in 'lsoda' subroutine.
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci', -1)
+in builtin                exec( /Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci line -1 )
+
+Undefined variable 'pochodnaY' in function 'f'.
+ode: An error occured in 'lsoda' subroutine.
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci', -1)
+in builtin                exec( /Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci line -1 )
+
+Undefined variable 'pochodnaY' in function 'f'.
+ode: An error occured in 'lsoda' subroutine.
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci', -1)
+in builtin                exec( /Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci line -1 )
+
+Undefined variable 'pochodnaY' in function 'f'.
+ode: An error occured in 'lsoda' subroutine.
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci', -1)
+in builtin                exec( /Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci line -1 )
+
+Undefined variable 'pochodnaY' in function 'f'.
+ode: An error occured in 'lsoda' subroutine.
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci', -1)
+in builtin                exec( /Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci line -1 )
+
+Undefined variable 'pochodnaY' in function 'f'.
+ode: An error occured in 'lsoda' subroutine.
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci', -1)
+in builtin                exec( /Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci line -1 )
+
+Undefined variable 'pochodnaY' in function 'f'.
+ode: An error occured in 'lsoda' subroutine.
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci', -1)
+in builtin                exec( /Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci line -1 )
+
+Undefined variable 'pochodnaY' in function 'f'.
+ode: An error occured in 'lsoda' subroutine.
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci', -1)
+in builtin                exec( /Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci line -1 )
+
+Undefined variable 'pochodnaY' in function 'f'.
+ode: An error occured in 'lsoda' subroutine.
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci', -1)
+in builtin                exec( /Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci line -1 )
+
+Undefined variable 'pochodnaY' in function 'f'.
+ode: An error occured in 'lsoda' subroutine.
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci', -1)
+in builtin                exec( /Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci line -1 )
+
+Undefined variable 'pochodnaY' in function 'f'.
+ode: An error occured in 'lsoda' subroutine.
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci', -1)
+in builtin                exec( /Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci line -1 )
+
+Undefined variable 'pochodnaY' in function 'f'.
+ode: An error occured in 'lsoda' subroutine.
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci', -1)
+in builtin                exec( /Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci line -1 )
+
+Undefined variable 'pochodnaY' in function 'f'.
+ode: An error occured in 'lsoda' subroutine.
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci', -1)
+in builtin                exec( /Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci line -1 )
+
+Undefined variable 'pochodnaY' in function 'f'.
+ode: An error occured in 'lsoda' subroutine.
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci', -1)
+in builtin                exec( /Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci line -1 )
+
+Undefined variable 'pochodnaY' in function 'f'.
+ode: An error occured in 'lsoda' subroutine.
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci', -1)
+in builtin                exec( /Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci line -1 )
+
+Undefined variable 'pochodnaY' in function 'f'.
+ode: An error occured in 'lsoda' subroutine.
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci', -1)
+in builtin                exec( /Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci line -1 )
+
+Undefined variable 'pochodnaY' in function 'f'.
+ode: An error occured in 'lsoda' subroutine.
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci', -1)
+in builtin                exec( /Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci line -1 )
+
+Undefined variable 'pochodnaY' in function 'f'.
+ode: An error occured in 'lsoda' subroutine.
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci', -1)
+in builtin                exec( /Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci line -1 )
+
+Undefined variable 'pochodnaY' in function 'f'.
+ode: An error occured in 'lsoda' subroutine.
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci', -1)
+in builtin                exec( /Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci line -1 )
+
+Undefined variable 'pochodnaY' in function 'f'.
+ode: An error occured in 'lsoda' subroutine.
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci', -1)
+in builtin                exec( /Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci line -1 )
+
+Undefined variable 'pochodnaY' in function 'f'.
+ode: An error occured in 'lsoda' subroutine.
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci', -1)
+in builtin                exec( /Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci line -1 )
+
+Undefined variable 'pochodnaY' in function 'f'.
+ode: An error occured in 'lsoda' subroutine.
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci', -1)
+in builtin                exec( /Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci line -1 )
+
+Undefined variable 'pochodnaY' in function 'f'.
+ode: An error occured in 'lsoda' subroutine.
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci', -1)
+in builtin                exec( /Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci line -1 )
+
+Undefined variable 'pochodnaY' in function 'f'.
+ode: An error occured in 'lsoda' subroutine.
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci', -1)
+in builtin                exec( /Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci line -1 )
+
+Undefined variable 'pochodnaY' in function 'f'.
+ode: An error occured in 'lsoda' subroutine.
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci', -1)
+in builtin                exec( /Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci line -1 )
+
+Undefined variable 'pochodnaY' in function 'f'.
+ode: An error occured in 'lsoda' subroutine.
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci', -1)
+in builtin                exec( /Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci line -1 )
+
+Undefined variable 'pochodnaY' in function 'f'.
+ode: An error occured in 'lsoda' subroutine.
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci', -1)
+in builtin                exec( /Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci line -1 )
+
+Undefined variable 'pochodnaY' in function 'f'.
+ode: An error occured in 'lsoda' subroutine.
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci', -1)
+in builtin                exec( /Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci line -1 )
+
+Undefined variable 'pochodnaY' in function 'f'.
+ode: An error occured in 'lsoda' subroutine.
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci', -1)
+in builtin                exec( /Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci line -1 )
+
+Undefined variable 'pochodnaY' in function 'f'.
+ode: An error occured in 'lsoda' subroutine.
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci', -1)
+in builtin                exec( /Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci line -1 )
+
+Undefined variable 'pochodnaY' in function 'f'.
+ode: An error occured in 'lsoda' subroutine.
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci', -1)
+in builtin                exec( /Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci line -1 )
+
+Undefined variable 'pochodnaY' in function 'f'.
+ode: An error occured in 'lsoda' subroutine.
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci', -1)
+in builtin                exec( /Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci line -1 )
+
+Undefined variable 'pochodnaY' in function 'f'.
+ode: An error occured in 'lsoda' subroutine.
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci', -1)
+in builtin                exec( /Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci line -1 )
+
+Undefined variable 'pochodnaY' in function 'f'.
+ode: An error occured in 'lsoda' subroutine.
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci', -1)
+in builtin                exec( /Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci line -1 )
+
+Undefined variable 'pochodnaY' in function 'f'.
+ode: An error occured in 'lsoda' subroutine.
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci', -1)
+in builtin                exec( /Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci line -1 )
+
+Undefined variable 'pochodnaY' in function 'f'.
+ode: An error occured in 'lsoda' subroutine.
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci', -1)
+in builtin                exec( /Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci line -1 )
+
+Undefined variable 'pochodnaY' in function 'f'.
+ode: An error occured in 'lsoda' subroutine.
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci', -1)
+in builtin                exec( /Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci line -1 )
+
+Undefined variable 'pochodnaY' in function 'f'.
+ode: An error occured in 'lsoda' subroutine.
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci', -1)
+in builtin                exec( /Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci line -1 )
+
+Undefined variable 'pochodnaY' in function 'f'.
+ode: An error occured in 'lsoda' subroutine.
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci', -1)
+Warning : redefining function: f                       . Use funcprot(0) to avoid this message
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/portretFazowy.sci', -1)
+at line    20 of executed file /Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/portretFazowy.sci
+
+plot2d(t,[Y(1,:)'']);
+                     ^^
+Error: Unexpected end of line in a string.
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci', -1)
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci', -1)
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/3.sci', -1)
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/portretFazowy.sci', -1)
+Warning : redefining function: F                       . Use funcprot(0) to avoid this message
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/portretFazowy.sci', -1)
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/spadekSwobodny.sce', -1)
+Warning : redefining function: F                       . Use funcprot(0) to avoid this message
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/spadekSwobodny.sce', -1)
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/spadekSwobodny.sce', -1)
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/spadekSwobodny.sce', -1)
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/spadekSwobodny.sce', -1)
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/spadekSwobodny.sce', -1)
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/spadekSwobodny.sce', -1)
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/spadekSwobodny.sce', -1)
+at line     5 of function subplot ( /Applications/scilab-6.0.0.app/Contents/MacOS/share/scilab/modules/graphics/macros/subplot.sci line 16 )
+at line    31 of executed file /Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/spadekSwobodny.sce
+
+subplot: Wrong number of input argument(s): 1 or 3 expected.
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/spadekSwobodny.sce', -1)
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/spadekSwobodny.sce', -1)
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/spadekSwobodny.sce', -1)
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/drapieznikOfiara.sci',-1)
+Warning : redefining function: F                       . Use funcprot(0) to avoid this message
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw5/motylLorenca.sci',-1)
+
+--> diary(0)

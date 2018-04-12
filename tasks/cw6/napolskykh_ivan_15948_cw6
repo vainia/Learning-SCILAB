@@ -1,0 +1,451 @@
+ ans  =
+
+   1.
+
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw6/mapa.sci', -1)
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw6/mapa.sci', -1)
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw6/mapa.sci', -1)
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw6/mapa.sci', -1)
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw6/dfp.sci', -1)
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw6/mapa.sci', -1)
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw6/cel.sci', -1)
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw6/cel.sci', -1)
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw6/mapa.sci', -1)
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw6/mapa.sci', -1)
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw6/mapa.sci', -1)
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw6/mapa.sci', -1)
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw6/cel.sci', -1)
+Warning : redefining function: cel                     . Use funcprot(0) to avoid this message
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw6/mapa.sci', -1)
+
+--> dfp([0.7,0.7],1000,0.05)
+
+Wrong number of input arguments.
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw6/naive.sci', -1)
+at line    20 of executed file /Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw6/naive.sci
+
+end
+^
+Error: syntax error, unexpected end of file, expecting end or endfunction
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw6/naive.sci', -1)
+at line    20 of executed file /Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw6/naive.sci
+
+endfunction
+^~~~~~~~~~~^
+Error: syntax error, unexpected endfunction, expecting end
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw6/naive.sci', -1)
+
+--> naive([0.7,0.7],1000,0.05)
+at line     2 of function naive ( /Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw6/naive.sci line 2 )
+
+Undefined variable: getf
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw6/naive.sci', -1)
+Warning : redefining function: naive                   . Use funcprot(0) to avoid this message
+
+--> naive([0.7,0.7],1000,0.05)
+at line     5 of function naive ( /Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw6/naive.sci line 5 )
+
+Wrong number of input arguments.
+
+--> naive(0.7,0.7,1000,0.05)
+at line     5 of function naive ( /Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw6/naive.sci line 5 )
+
+Wrong number of input arguments.
+
+--> naive(0.7,0.7,1000,0.05)
+at line     5 of function naive ( /Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw6/naive.sci line 5 )
+
+Wrong number of input arguments.
+
+--> naive(1,1,1000,0.05)
+at line     5 of function naive ( /Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw6/naive.sci line 5 )
+
+Wrong number of input arguments.
+
+--> naive(0.7,0.7,1000,0.05)
+at line     5 of function naive ( /Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw6/naive.sci line 5 )
+
+Wrong number of input arguments.
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw6/naive.sci', -1)
+Warning : redefining function: naive                   . Use funcprot(0) to avoid this message
+
+--> naive([0.7,0.7],1000,0.05)
+at line    12 of function naive ( /Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw6/naive.sci line 12 )
+
+Undefined variable: x01
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw6/naive.sci', -1)
+Warning : redefining function: naive                   . Use funcprot(0) to avoid this message
+
+--> naive([0.7,0.7],1000,0.05)
+
+Undefined variable 'x01' in function 'naive'.
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw6/naive.sci', -1)
+Warning : redefining function: naive                   . Use funcprot(0) to avoid this message
+
+--> naive([0.7,0.7],1000,0.05)
+ ans  =
+
+   5.611D-15   0.000048
+
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw6/naive.sci', -1)
+Warning : redefining function: naive                   . Use funcprot(0) to avoid this message
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw6/naive.sci', -1)
+
+--> naive([0.7,0.7],1000,0.05)
+ ans  =
+
+   5.611D-15   0.000048
+
+
+--> naive([0,0],1000,0.05)
+ ans  =
+
+   0.   0.
+
+
+--> naive([2,2],1000,0.05)
+ ans  =
+
+   4.528D-16   0.0000478
+
+
+--> xtitle('ivan_napolskykh')
+
+
+--> xtitle('IVAN NAPOLSKYKH 15948')
+
+--> naive([1,1],1000,0.05)
+ ans  =
+
+   2.749D-15   0.00005
+
+
+--> xtitle('IVAN NAPOLSKYKH 15948')
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw6/mapa.sci', -1)
+
+--> naive([1,1],1000,0.05)
+ ans  =
+
+   2.749D-15   0.00005
+
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw6/mapa.sci', -1)
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw6/dfp.sci', -1)
+
+--> dfp([1,1],1000)
+ ans  =
+
+   0.0000157  -0.0000349
+
+
+--> iter
+
+Undefined variable: iter
+
+--> dfp([1,1],1000)
+ ans  =
+
+   0.0000157  -0.0000349
+
+
+--> dfp([1,1],1000)
+ ans  =
+
+   0.0000157  -0.0000349
+
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw6/dfp.sci', -1)
+Warning : redefining function: dfp                     . Use funcprot(0) to avoid this message
+
+--> dfp([1,1],1000)
+ ans  =
+
+   6.
+
+
+--> dfp([1,1],1000)
+ ans  =
+
+   6.
+
+
+--> [a,b,c]=dfp([1,1],1000)
+
+Wrong number of output arguments.
+
+
+--> [a,b,c]<-dfp([1,1],1000)
+
+Undefined variable: a
+
+--> [a,b,c]=dfp([1,1],1000)
+
+Wrong number of output arguments.
+
+
+--> [a,b,c] = dfp([1,1],1000)
+
+Wrong number of output arguments.
+
+
+--> [a,b] = dfp([1,1],1000)
+
+Wrong number of output arguments.
+
+
+--> [a,b,c] = naive([1,1],1000,0.05)
+ c  = 
+
+   94.
+
+ b  = 
+
+   2.498D-09
+
+ a  = 
+
+   2.749D-15   0.00005
+
+
+--> [a,b,c] = dfp([1,1],1000)
+
+Wrong number of output arguments.
+
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw6/dfp.sci', -1)
+Warning : redefining function: dfp                     . Use funcprot(0) to avoid this message
+
+--> [a,b,c] = dfp([1,1],1000)
+ c  = 
+
+   6.
+
+ b  = 
+
+   1.955D-09
+
+ a  = 
+
+   0.0000157  -0.0000349
+
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw6/mapa.sci', -1)
+
+--> [a,b,c] = naive([1,1],1000,0.05)
+ c  = 
+
+   94.
+
+ b  = 
+
+   2.498D-09
+
+ a  = 
+
+   2.749D-15   0.00005
+
+
+--> [a,b,c] = dfp([1,1],1000)
+ c  = 
+
+   6.
+
+ b  = 
+
+   1.955D-09
+
+ a  = 
+
+   0.0000157  -0.0000349
+
+
+--> clf
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw6/mapa.sci', -1)
+
+--> [a,b,c] = naive([1,1],1000,0.05)
+ c  = 
+
+   94.
+
+ b  = 
+
+   2.498D-09
+
+ a  = 
+
+   2.749D-15   0.00005
+
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw6/cel.sci', -1)
+Warning : redefining function: cel                     . Use funcprot(0) to avoid this message
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw6/mapa.sci', -1)
+
+--> [a,b,c] = naive([1,1],1000,0.05)
+ c  = 
+
+   906.
+
+ b  = 
+
+  -0.0522899
+
+ a  = 
+
+  -0.5440167   0.0005428
+
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw6/mapa.sci', -1)
+
+--> [a,b,c] = dfp([1,1],1000)
+ c  = 
+
+   19.
+
+ b  = 
+
+  -0.0522897
+
+ a  = 
+
+  -0.5443655  -0.0005004
+
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw6/mapa.sci', -1)
+
+--> [a,b,c] = naive([1,1],1000,0.05)
+ c  = 
+
+   906.
+
+ b  = 
+
+  -0.0522899
+
+ a  = 
+
+  -0.5440167   0.0005428
+
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw6/cel.sci', -1)
+Warning : redefining function: cel                     . Use funcprot(0) to avoid this message
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw6/mapa.sci', -1)
+
+--> [a,b,c] = naive([1,1],1000,0.05)
+ c  = 
+
+   1000.
+
+ b  = 
+
+   0.0001315
+
+ a  = 
+
+   0.1919652   0.035807
+
+
+--> [a,b,c] = naive([1,1],2000,0.05)
+ c  = 
+
+   2000.
+
+ b  = 
+
+   0.0000246
+
+ a  = 
+
+   0.1262745   0.01546
+
+
+--> [a,b,c] = naive([1,1],5000,0.05)
+ c  = 
+
+   5000.
+
+ b  = 
+
+   0.0000032
+
+ a  = 
+
+   0.0755887   0.0055332
+
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw6/mapa.sci', -1)
+
+--> [a,b,c] = naive([0.7,0.7],5000,0.05)
+ c  = 
+
+   5000.
+
+ b  = 
+
+   0.0000031
+
+ a  = 
+
+   0.0750998   0.0054618
+
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw6/mapa.sci', -1)
+
+--> [a,b,c] = dfp([1,1],5000)
+ c  = 
+
+   205.
+
+ b  = 
+
+   0.0000307
+
+ a  = 
+
+   0.1334539   0.0172027
+
+
+--> exec('/Users/vania/Documents/GIT/WSISIZ/LETNI2017/SCILAB/tasks/cw6/mapa.sci', -1)
+
+--> [a,b,c] = dfp([0.7,0.7],5000)
+ c  = 
+
+   155.
+
+ b  = 
+
+   0.0000275
+
+ a  = 
+
+   0.1298808   0.0162756
+
+
+--> diary(0)

@@ -1,0 +1,46 @@
+ ans  =
+
+   1.
+
+
+--> ans
+ ans  = 
+
+   1.
+
+
+--> x
+
+Undefined variable: x
+
+--> x=1
+ x  = 
+
+   1.
+
+
+--> x
+ x  = 
+
+   1.
+
+
+--> exec('/Users/vania/Documents/SCILAB/methodOfLeastSquares.sci',-1)
+
+--> exec('/Users/vania/Documents/SCILAB/harmonicFunc.sci',-1)
+
+--> exec('/Users/vania/Documents/SCILAB/eulerConstant.sci',-1)
+
+--> exec('/Users/vania/Documents/SCILAB/gradeOfEulersFunction.sci', -1)
+
+--> a
+ a  = 
+
+  -0.9397132
+
+
+--> exec('/Users/vania/Documents/SCILAB/DirichletFunctionWithPlot.sci', -1)
+
+--> exec('/Users/vania/Documents/SCILAB/DirichletFunctionWithPlot.sci', -1)
+
+--> diary(0)
